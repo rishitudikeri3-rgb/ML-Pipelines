@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Local Vector Database Files (should be built locally by running input_info.py)
+vector_embeddings/
+
+# Local Environment / API Keys
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db

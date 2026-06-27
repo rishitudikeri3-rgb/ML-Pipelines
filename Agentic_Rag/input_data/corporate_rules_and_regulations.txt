@@ -1,0 +1,105 @@
+================================================================================
+                    AETHERFLOW TECHNOLOGIES HANDBOOK
+                      Corporate Rules & Regulations
+================================================================================
+
+Welcome to AetherFlow Technologies. This document outlines the official corporate
+rules, regulations, and operational policies governing all employees, contractors,
+and representatives of the company.
+
+--------------------------------------------------------------------------------
+1. MISSION & VALUES
+--------------------------------------------------------------------------------
+At AetherFlow Technologies, our mission is to deliver seamless cloud optimization
+and advanced AI integration solutions. We operate on three core values:
+- Innovation: Continuously pushing the boundaries of what is possible in tech.
+- Integrity: Holding ourselves to the highest ethical and professional standards.
+- Inclusivity: Cultivating an environment where diverse perspectives are celebrated.
+
+--------------------------------------------------------------------------------
+2. WORKPLACE STRUCTURE & EXPECTATIONS
+--------------------------------------------------------------------------------
+2.1 Hybrid Work Model
+AetherFlow operates on a hybrid model to balance collaboration and flexibility.
+- Mandatory Collaboration Days: Tuesdays and Thursdays (all employees must work
+  from their designated AetherFlow regional office).
+- Flexible Work Days: Mondays, Wednesdays, and Fridays (employees may choose
+  to work remotely or from the office).
+
+2.2 Core Hours
+Regardless of location, all employees must be active and accessible during our
+Core Collaboration Hours: 10:00 AM – 3:00 PM local time. Standard team standups
+and client alignment sessions must be scheduled during this window.
+
+2.3 Time Tracking
+All hourly employees and contractors must log their billable hours in the internal
+work tracking portal by Friday 5:00 PM each week.
+
+--------------------------------------------------------------------------------
+3. CODE OF CONDUCT & PROFESSIONALISM
+--------------------------------------------------------------------------------
+3.1 Anti-Harassment & Non-Discrimination
+AetherFlow is dedicated to providing a harassment-free workplace for everyone. We do
+not tolerate harassment or discrimination of any kind, including but not limited to
+race, gender, sexual orientation, disability, or religion.
+
+3.2 Professional Communication
+All digital communication (Slack, Email, Teams) must remain professional and respectful.
+Keep video cameras turned on during key external client-facing calls to maintain
+strong engagement and representation.
+
+--------------------------------------------------------------------------------
+4. SECURITY & DATA PRIVACY
+--------------------------------------------------------------------------------
+4.1 AI & LLM Usage Policy
+While we encourage the exploration of AI tools, employees must NEVER paste proprietary
+source code, client data, intellectual property, or confidential financial metrics
+into public LLMs (e.g., ChatGPT, Claude, Gemini free tiers) unless using the company-
+approved, enterprise-secured internal LLM portal.
+
+4.2 Device Security
+All company work must be conducted on encrypted corporate-issued laptops. Personal
+devices (BYOD) are restricted from accessing internal code repositories.
+
+4.3 VPN Usage
+When working from remote locations, public cafes, or hotels, employees are required
+to activate the AetherFlow secure VPN before accessing company networks or cloud consoles.
+
+4.4 Clean Desk Policy
+To prevent data exposure, employees must not leave sensitive printed materials, passwords,
+or security keycards unattended on their desks.
+
+--------------------------------------------------------------------------------
+5. INTELLECTUAL PROPERTY (IP)
+--------------------------------------------------------------------------------
+All source code, design mockups, AI models, prompts, data pipelines, and internal
+documentation created by employees during their tenure at AetherFlow Technologies
+remain the exclusive intellectual property of the company.
+
+--------------------------------------------------------------------------------
+6. DRESS CODE
+--------------------------------------------------------------------------------
+Our office environment is "smart-casual." Neat jeans, casual shirts, and sneakers
+are fully acceptable. However, for face-to-face client meetings, business-professional
+attire is expected.
+
+--------------------------------------------------------------------------------
+7. BENEFITS, STIPENDS, & EXPENSES
+--------------------------------------------------------------------------------
+7.1 Self-Care Stipend
+Employees are eligible for a $100/month wellness stipend to be used toward gym
+memberships, mental health apps, or physical well-being.
+
+7.2 Professional Development
+AetherFlow offers up to $1,500 annually per employee for approved technical courses,
+conferences, books, or certification exams.
+
+7.3 Expense Submissions
+All business-related expenses must be submitted with valid receipts via the internal
+expensing portal by the 25th of each calendar month. Late submissions will be
+processed in the following month's payroll cycle.
+
+================================================================================
+AetherFlow Technologies Operations & Human Resources Department
+For questions, contact: hr@aetherflow-tech-fictional.com
+================================================================================
