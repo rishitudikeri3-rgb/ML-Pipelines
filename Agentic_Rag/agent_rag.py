@@ -85,7 +85,7 @@ def get_google_llm():
 def run_chat_loop(vector_store, llm):
     """Interactive loop for chatbot queries and explanations."""
     print("\n=========================================================")
-    print("      AetherFlow HR Assistant Chatbot Initialized        ")
+    print("           RAG HR Assistant Chatbot Initialized          ")
     print("=========================================================")
     print("Ask me anything about company policies, rules, and regulations.")
     print("Type 'exit', 'quit', or 'q' to end the chat.")
@@ -125,7 +125,7 @@ def run_chat_loop(vector_store, llm):
         context = "\n\n---\n\n".join(context_parts)
         
         system_instruction = (
-            "You are AetherFlow Technologies' helpful HR Assistant.\n"
+            "You are a helpful Company HR Assistant.\n"
             "Answer the user's question using ONLY the provided corporate context.\n"
             "If the context does not contain the answer, politely state that you do not know.\n"
             "Do not make up facts or extrapolate beyond the provided text.\n"
